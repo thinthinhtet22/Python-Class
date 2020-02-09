@@ -35,6 +35,17 @@ numpy.singularize('phenomena') #returns 'phenomenon'
 
 
 ![alt_ironman](https://gamespot1.cbsistatic.com/uploads/original/1587/15875866/3514706-ironmanvr-promo-nologo.jpg)
+```diff
+-Red
++Green
+!Orange
+#Grey
+@blue
+%violet
+&yellow
+/pink
+$purple
 
+```
 
 
