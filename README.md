@@ -47,7 +47,8 @@ numpy.singularize('phenomena') #returns 'phenomenon'
 $purple
 
 ```
-
--print("Hello World")
+```python
+print("Hello World")
+```
 
 
