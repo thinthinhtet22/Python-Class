@@ -51,7 +51,7 @@ x = 50
 y = 150
 if x > y:
 	print("x is greater than y")
-elif== y:
+elif x == y:
 	print("x and y are equal")
 else:
 	print("x is less than y")
@@ -115,3 +115,20 @@ if siyb student
 	else
 else:
 	
+
+
+x = input(str("Are you SIYB student?"))
+y = input(str("Are you Python student"))
+z = input(str("Gender"))
+if x == SIYB:
+	print("Yes, I am a SIYB student")
+	if y == Python:
+		print("Yes, I am a Python student")
+		if z == "Girl":
+			print("Girl")
+		else: 
+			print("No, i am not SIYB student")
+	else:
+		print("No, I am not Python student")
+else boy:
+	print("boy")
